@@ -1,0 +1,4 @@
+[1008/014453.639:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accesso negato} Un processo ha richiesto di accedere ad un oggetto ma non ha ottenuto i diritti di accesso. (0xc0000022)
+[1008/014453.639:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accesso negato} Un processo ha richiesto di accedere ad un oggetto ma non ha ottenuto i diritti di accesso. (0xc0000022)
+[1008/014453.832:ERROR:exception_snapshot_win.cc(99)] thread ID 6404 not found in process
+[1008/014453.832:ERROR:exception_snapshot_win.cc(99)] thread ID 18712 not found in process

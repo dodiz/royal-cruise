@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "title": "Intro",
+        "body": "La Royal Cruise ti dà il benvenuto a bordo, sfortunato viaggiatore.<br>Non metterti comodo, non sarà un viaggio rilassante. <br>A bordo la vita non sarà facile, dovrai lottare per sopravvivere, chiuso come un topo in trappola in questo transatlantico che sembra avere vita propria. La Royal Cruise ha fame, e tu hai un aspetto così delizioso … Cos'è un gioco di ruolo lo sappiamo tutti, ma non fa male ripeterlo ancora per chi si affacciasse a questo mondo per la prima volta. Gioco di Ruolo, o da questo momento in avanti GdR, è un gioco dove impersonerai il tuo o i tuoi personaggi tramite descrizione scritta. Meglio descriverai la scena in cui si muove, più particolareggiato sarà il vostro scritto, e meglio l'altro utente con cui state giocando visualizzerà quel che fa il tuo personaggio. E' un libro, di cui TU scriverai trama e finale, seguendo l'ambientazione proposta, in questo caso Horror. Ecco un po' di terminologia per quanto riguarda il forum / gdr: ON: On game, si riferisce a ciò che accade all'interno del gioco. OFF: Off game, ovvero quei luoghi del forum dove non dovrete interpretare il vostro personaggio (Es. Bacheca o in Tagboard) PG: Personaggio giocante, creato e mosso dall'utente PNG: Personaggio non giocante (personaggi mossi dal master o con alcune restrizioni, dai Player stessi)"
+    },
+    {
+        "id": 1,
+        "title": "Cos'è un gdr?",
+        "body": "Cos'è un gioco di ruolo lo sappiamo tutti, ma non fa male ripeterlo ancora per chi si affacciasse a questo mondo per la prima volta. Gioco di Ruolo, o da questo momento in avanti GdR, è un gioco dove impersonerai il tuo o i tuoi personaggi tramite descrizione scritta. Meglio descriverai la scena in cui si muove, più particolareggiato sarà il vostro scritto, e meglio l'altro utente con cui state giocando 'visualizzerà' quel che fa il tuo personaggio.<br>E' un libro, di cui TU scriverai trama e finale, seguendo l'ambientazione proposta, in questo caso Horror.<br><br>Ecco un po' di terminologia per quanto riguarda il forum / gdr:<ul><li><b>ON</b>: On game, si riferisce a ciò che accade all'interno del gioco.</li><li><b>OFF</b>: Off game, ovvero quei luoghi del forum dove non dovrete interpretare il vostro personaggio (Es. Bacheca o in Tagboard)</li><li><b>PG</b>: Personaggio giocante, creato e mosso dall'utente</li><li><b>PNG</b>: Personaggio non giocante (personaggi mossi dal master o con alcune restrizioni, dai Player stessi)</li></ul>"
+    },
+    {
+        "id": 2,
+        "title": "Regole per postare",
+        "body": "<ul><li>L'azione va scritta in terza persona e al tempo presente</li><li>Rendi narrativo ogni pensiero, senza mutarlo in un discorso diretto onde evitare confusioni col parlato. Utilizza il pulsante 'parla' ed inserire il parlato del personaggio tra i tag [parlato] e [/parlato]</li><li>Severamente vietato il metagame. Le azioni del tuo personaggio devono basarsi sulla sua conoscenza, non la tua.</li><li>E' possibile possedere più pg</li><li>Il limite massimo per inviare un'azione è di 24 ore, passate le quali verrai saltato.</li><li>Il PG può morire, quindi scegli bene cosa fargli fare e dire. Non esiste resurgo e roba varia, non è un fantasy.</li><li>Vietato il ritrovamento libero di oggetti o armi presenti nel negozio.</li><li>Vietate anche le azioni Autoconclusive in caso di interazioni con altri pg o di Event. Utilizzare il condizionale in questi casi.</li><li>Il GDR è suddiviso in luoghi, per spostarsi da un luogo all'altro, cliccare sul pulsante continua in e continua da se invece è il tuo primo post in quel luogo. Per terminare la ruolata, clicca sul pulsante FINE, e metterai il pg in pausa.</li>"
+    },
+    {
+        "id": 3,
+        "title": "Event",
+        "body": "Gli event sono delle avventure create dai master che metteranno alla prova il tuo pg. Ogni qual volta vedrai un post con uno sfondo rosso, significa che un event è iniziato. Da questo momento in poi le azioni dovranno essere scritte al condizionale, perchè spetterà al master, nel suo post, confermarla o no. Al termine dell'event, se il tuo pg sopravvivrà, riceverà dei PT, spendibili nel negozio per aumentare le abilità o acquistare oggetti."
+    }
+]

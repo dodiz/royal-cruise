@@ -1,0 +1,77 @@
+{
+    "personal": [
+        {
+            "title": "Nome e cognome",
+            "name": "name",
+            "type": "text"
+        },
+        {
+            "title": "Data di nascita",
+            "name": "born",
+            "type": "date",
+            "min": "1940-01-01",
+            "max": "2006-01-01"
+        },
+        {
+            "title": "Sesso",
+            "name": "gender",
+            "type": "radio",
+            "radio": [
+                {
+                    "title": "Maschio",
+                    "value": "Maschio"
+                },
+                {
+                    "title": "Femmina",
+                    "value": "Femmina"
+                }
+            ]
+        },
+        {
+            "title": "Nazionalità",
+            "name": "from",
+            "type": "text"
+        },
+        {
+            "title": "Stato civile",
+            "name": "civil",
+            "type": "text"
+        },
+        {
+            "title": "Occupazione",
+            "name": "job",
+            "type": "text"
+        }
+    ],
+    "body": [
+        {
+            "title": "Altezza (cm)",
+            "name": "height",
+            "type": "number",
+            "min": 100,
+            "max": 250
+        },
+        {
+            "title": "Peso (kg)",
+            "name": "weight",
+            "type": "number",
+            "min": 40,
+            "max": 200
+        },
+        {
+            "title": "Capelli",
+            "name": "hair",
+            "type": "text"
+        },
+        {
+            "title": "Occhi",
+            "name": "eyes",
+            "type": "text"
+        },
+        {
+            "title": "Particolari",
+            "name": "other",
+            "type": "text"
+        }
+    ]
+}

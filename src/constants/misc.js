@@ -1,0 +1,1 @@
+export const HIDETIME = 5000
