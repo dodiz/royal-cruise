@@ -1,0 +1,7 @@
+export const USERS = "users"
+export const TOAPPROVE = "toapprove"
+export const ACTORS = "actors"
+export const PGS = "pgs"
+export const MAPS = "map"
+export const CHATS = "chats"
+export const ONLINE = "online"
